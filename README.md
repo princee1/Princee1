@@ -41,15 +41,14 @@
 ## 🧠 My favorite quote: 
 ###*“What you cannot create, you do not comprehend.”*
 
-
 ## 🔗 Connect with Me
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)[https://www.linkedin.com/in/prince-david-madzou]
 - 📧 Email: [prince-david.madzou@polymtl.ca](mailto:prince-david.madzou@polymtl.ca)
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=princee1&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princee1&layout=compact&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princee1&layout=compact&langs_count=6)-->
 
 <!--
 **princee1/Princee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
