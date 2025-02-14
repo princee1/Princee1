@@ -42,13 +42,13 @@
 
 
 ## 🔗 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/prince-david-madzou)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)[LinkedIn](https://www.linkedin.com/in/prince-david-madzou)
 - 📧 Email: [prince-david.madzou@polymtl.ca](mailto:prince-david.madzou@polymtl.ca)
 
 ## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prince-david-madzou&show_icons=true&hide_title=true&count_private=true&hide=prs)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=princee1&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prince-david-madzou&layout=compact&langs_count=6)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princee1&layout=compact&langs_count=6)
 
 <!--
 **princee1/Princee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
