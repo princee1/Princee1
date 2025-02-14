@@ -4,7 +4,7 @@
 <!--Welcome to my GitHub profile! I'm a passionate software engineering student at **Polytechnique Montréal**, specializing in **Data Science & AI** and **Cybersecurity**. I love exploring the latest in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Reinforcement Learning (RL)**. I also have a deep interest in **Generative AI** and **LLMs** (Large Language Models). When I'm not coding, you’ll probably find me enjoying **chess** or playing **sports**.-->
 ## 🚀 About Me
 - 🎓 Full-time software engineering student at **Polytechnique Montréal** with minors in **Data Science & AI** and **Cybersecurity**.
-- 🚀 I am very lazy so i am working on things that can my life easier, like a Mobile App that will apply to job automatically by leveraging **LLMs** and **Retrieval Augmented Generation (RAG)**.
+- 🚀 I am very lazy so i am working on things that can make my life easier, like a Mobile App that will apply to job automatically by leveraging **LLMs** and **Retrieval Augmented Generation (RAG)**.
 - 🔭 Working on other project but i'll talk about it in another time ;) 
 
 ## 🛠️ Technologies & Tools
