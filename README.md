@@ -22,10 +22,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 <!--[ASP .NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=aspdotnetcore&logoColor=white)-->
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
-![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-
-#### Tools & Testing:
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) 
+![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) 
 ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white)
 
 <!--#### OS:
