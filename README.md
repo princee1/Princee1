@@ -2,12 +2,10 @@
 # 👋 Hi, I'm Prince David Madzou!
 
 <!--Welcome to my GitHub profile! I'm a passionate software engineering student at **Polytechnique Montréal**, specializing in **Data Science & AI** and **Cybersecurity**. I love exploring the latest in **Machine Learning (ML)**, **Deep Learning (DL)**, and **Reinforcement Learning (RL)**. I also have a deep interest in **Generative AI** and **LLMs** (Large Language Models). When I'm not coding, you’ll probably find me enjoying **chess** or playing **sports**.-->
-
 ## 🚀 About Me
 - 🎓 Full-time software engineering student at **Polytechnique Montréal** with minors in **Data Science & AI** and **Cybersecurity**.
 - 🚀 I am very lazy so i am working on things that can my life easier, like a Mobile App that will apply to job automatically by leveraging **LLMs** and **Retrieval Augmented Generation (RAG)**.
 - 🔭 Working on other project but i'll talk about it in another time ;) 
-
 
 ## 🛠️ Technologies & Tools
 ### Languages:
@@ -28,14 +26,8 @@
 <!--#### OS:
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=windows&logoColor=white) 
 ![WSL](https://img.shields.io/badge/-WSL-000000?logo=windows-subsystem-for-linux&logoColor=white) -->
-
 ## 🧠 My favorite quote: 
 ### *“What I cannot create, I do not understand” - Richard Feynman*
-
-## 🔗 Connect with Me
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)[https://www.linkedin.com/in/prince-david-madzou]
-- 📧 Email: [prince-david.madzou@polymtl.ca](mailto:prince-david.madzou@polymtl.ca)
-
 <!--## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=princee1&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
