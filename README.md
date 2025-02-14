@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 - 🎓 Full-time software engineering student at **Polytechnique Montréal** with minors in **Data Science & AI** and **Cybersecurity**.
-- 🚀 I am very lazy so i am working on things that can facilitate my life, like a Mobile App that will apply to job automatically by leveraging **LLMs** and **Retrieval Augmented Generation (RAG)**.
+- 🚀 I am very lazy so i am working on things that can my life easier, like a Mobile App that will apply to job automatically by leveraging **LLMs** and **Retrieval Augmented Generation (RAG)**.
 - 🔭 Working on other project but i'll talk about it in another time ;) 
 
 
@@ -16,7 +16,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
 ![Dart](https://img.shields.io/badge/-Dart-00B4A1?logo=dart&logoColor=white) 
-![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white) 
+<!--![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)-->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries:
@@ -24,7 +24,7 @@
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![ASP .NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=aspdotnetcore&logoColor=white)
+<!--[ASP .NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=aspdotnetcore&logoColor=white)-->
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
@@ -38,11 +38,12 @@
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=windows&logoColor=white) 
 ![WSL](https://img.shields.io/badge/-WSL-000000?logo=windows-subsystem-for-linux&logoColor=white)
 
-## 🧠 My favorite quote: *“What you cannot create, you do not comprehend.”*
+## 🧠 My favorite quote: 
+###*“What you cannot create, you do not comprehend.”*
 
 
 ## 🔗 Connect with Me
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)[LinkedIn](https://www.linkedin.com/in/prince-david-madzou)
+- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)[https://www.linkedin.com/in/prince-david-madzou]
 - 📧 Email: [prince-david.madzou@polymtl.ca](mailto:prince-david.madzou@polymtl.ca)
 
 ## 📊 GitHub Stats
