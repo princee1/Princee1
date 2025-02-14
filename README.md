@@ -11,32 +11,26 @@
 
 ## 🛠️ Technologies & Tools
 ### Languages:
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white) 
-![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
-![Dart](https://img.shields.io/badge/-Dart-00B4A1?logo=dart&logoColor=white) 
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-00B4A1?logo=dart&logoColor=white) 
 <!--![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)-->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 
 ### Frameworks & Libraries:
-![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) 
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) 
-![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
 <!--[ASP .NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=aspdotnetcore&logoColor=white)-->
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white)
-
 
 #### Tools & Testing:
 ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) 
 ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white)
 
-#### OS:
+<!--#### OS:
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=windows&logoColor=white) 
-![WSL](https://img.shields.io/badge/-WSL-000000?logo=windows-subsystem-for-linux&logoColor=white)
+![WSL](https://img.shields.io/badge/-WSL-000000?logo=windows-subsystem-for-linux&logoColor=white) -->
 
 ## 🧠 My favorite quote: 
 ###*“What you cannot create, you do not comprehend.”*
