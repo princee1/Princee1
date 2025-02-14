@@ -33,7 +33,7 @@
 ![WSL](https://img.shields.io/badge/-WSL-000000?logo=windows-subsystem-for-linux&logoColor=white) -->
 
 ## 🧠 My favorite quote: 
-###*“What you cannot create, you do not comprehend.”*
+### *“What you cannot create, you do not comprehend.”*
 
 ## 🔗 Connect with Me
 - ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)[https://www.linkedin.com/in/prince-david-madzou]
