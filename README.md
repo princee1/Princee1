@@ -26,8 +26,7 @@
 <!--#### OS:
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=windows&logoColor=white) 
 ![WSL](https://img.shields.io/badge/-WSL-000000?logo=windows-subsystem-for-linux&logoColor=white) -->
-## 🧠 My favorite quote: 
-### *“What I cannot create, I do not understand” - Richard Feynman*
+## 🧠 My favorite quote:  *“What I cannot create, I do not understand” - Richard Feynman*
 <!--## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=princee1&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
