@@ -5,7 +5,7 @@
 ## 🚀 About Me
 - 🎓 Full-time software engineering student at **Polytechnique Montréal** with minors in **Data Science & AI** and **Cybersecurity**.
 - 🚀 I am very lazy so i am working on things that can make my life easier, like a Mobile App that will apply to job automatically by leveraging **LLMs** and **Retrieval Augmented Generation (RAG)**.
-- 🔭 Working on other project but i'll talk about it in another time ;) 
+- 🔭 Working on other project but i'll talk about it at another time ;) 
 
 ## 🛠️ Technologies & Tools
 ### Languages:
