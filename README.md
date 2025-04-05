@@ -14,6 +14,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![Dart](https://img.shields.io/badge/-Dart-00B4A1?logo=dart&logoColor=white) 
 <!--![C#](https://img.shields.io/badge/-C%23-239120?logo=csharp&logoColor=white)-->
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+<!--![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)-->
+
 
 ### Frameworks & Libraries:
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
@@ -24,7 +26,7 @@
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) 
 ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white)
 
-### DevOps % Tools:
+### DevOps & Tools:
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
@@ -32,6 +34,7 @@
 <!--#### OS:
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=windows&logoColor=white) 
 ![WSL](https://img.shields.io/badge/-WSL-000000?logo=windows-subsystem-for-linux&logoColor=white) -->
+
 ## 🧠 My favorite quote:  *“What I cannot create, I do not understand” - Richard Feynman*
 <!--## 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=princee1&show_icons=true&hide_title=true&count_private=true&hide=prs)
