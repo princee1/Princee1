@@ -38,7 +38,7 @@
 
 ## 📊 GitHub Stats
 <!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=princee1&show_icons=true&hide_title=true&count_private=true&hide=prs)-->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princee1&layout=compact&langs_count=6)
+<!--![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princee1&layout=compact&langs_count=6)-->
 ![Princee1's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=princee1&theme=radical)
 
 <!--
