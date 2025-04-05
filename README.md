@@ -24,6 +24,11 @@
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) 
 ![Jasmine](https://img.shields.io/badge/-Jasmine-8A4182?logo=jasmine&logoColor=white)
 
+### DevOps % Tools:
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+
+
 <!--#### OS:
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=windows&logoColor=white) 
 ![WSL](https://img.shields.io/badge/-WSL-000000?logo=windows-subsystem-for-linux&logoColor=white) -->
