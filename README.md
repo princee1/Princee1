@@ -16,7 +16,6 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 <!--![Go](https://img.shields.io/badge/-Go-00ADD8?logo=go&logoColor=white)-->
 
-
 ### Frameworks & Libraries:
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
@@ -36,10 +35,11 @@
 ![WSL](https://img.shields.io/badge/-WSL-000000?logo=windows-subsystem-for-linux&logoColor=white) -->
 
 ## 🧠 My favorite quote:  *“What I cannot create, I do not understand” - Richard Feynman*
-<!--## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=princee1&show_icons=true&hide_title=true&count_private=true&hide=prs)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princee1&layout=compact&langs_count=6)-->
+## 📊 GitHub Stats
+<!--![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=princee1&show_icons=true&hide_title=true&count_private=true&hide=prs)-->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=princee1&layout=compact&langs_count=6)
+![Princee1's Contribution Streak](https://github-readme-streak-stats.herokuapp.com/?user=princee1&theme=radical)
 
 <!--
 **princee1/Princee1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
