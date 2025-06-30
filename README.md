@@ -19,7 +19,8 @@
 ### Frameworks & Libraries:
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white) ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/-Flutter-02569B?logo=flutter&logoColor=white) ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white)
-![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)  ![Golang](https://img.shields.io/badge/-Golang-00ADD8?logo=go&logoColor=white)
+
 <!--[ASP .NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?logo=aspdotnetcore&logoColor=white)-->
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white) ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white)
 ![Numpy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white) ![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white) 
