@@ -28,6 +28,9 @@
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 
+### AI
+![LangChain](https://img.shields.io/badge/LangChain-Agent-blue?logo=langchain)
+
 
 <!--#### OS:
 ![Windows](https://img.shields.io/badge/-Windows-00A4EF?logo=windows&logoColor=white) 
